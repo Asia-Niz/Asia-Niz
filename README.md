@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asia-Niz
-- 👀 I’m interested in become a great coder.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning javascript.
 
 <!---
